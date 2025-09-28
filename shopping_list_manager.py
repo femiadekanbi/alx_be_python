@@ -1,5 +1,5 @@
 def display_menu():
-    print("Shoppibg List Manager")
+    print("Shopping List Manager")
     print("Add Item")
     print("Remove Item")
     print("View List")
