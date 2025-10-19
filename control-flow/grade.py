@@ -7,7 +7,5 @@ elif marks < 50:
     print("Pass")
 else:
     print("Fail")
-.:
-print("Invalid input")
-
+    
 print(f"Your total score is {marks}. Any alterations renders this result invalid")
